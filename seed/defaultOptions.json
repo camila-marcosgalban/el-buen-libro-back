@@ -1,0 +1,20 @@
+[
+  { "type":"bread", "options":[
+    {"key":"baguette","label":"Baguette","price":0,"isAvailable": true},
+    {"key":"pan-arabe","label":"Pan Arabe","price":100,"isAvailable": true}
+     ]},
+  { "type":"protein", "options":[
+    {"key":"mila-carne","label":"Milanesa de Carne","price":1200,"isAvailable": true},
+    {"key":"mila-pollo","label":"Milanesa de Pollo","price":1100,"isAvailable": true},
+    {"key":"sin-mila","label":"Sin milanesa","price":0,"isAvailable": true}
+  ]},
+  { "type":"topping", "options":[
+    {"key":"lechuga","label":"Lechuga","price":0,"isAvailable": true},
+    {"key":"tomate","label":"Tomate","price":0,"isAvailable": true},
+    {"key":"queso","label":"Queso","price":300,"isAvailable": true},
+    {"key":"huevo","label":"Huevo","price":300,"isAvailable": true},
+    {"key":"jamon","label":"Jamón","price":350,"isAvailable": true},
+    {"key":"mayonesa","label":"Mayonesa","price":0,"isAvailable": true},
+    {"key":"mostaza","label":"Mostaza","price":0,"isAvailable": true}
+  ]}
+]

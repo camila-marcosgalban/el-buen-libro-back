@@ -4,9 +4,12 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "dev": "node server.js",
     "seed:options": "node scripts/seedOptions.js"
   },
+  "engines": { "node": ">=18" }
+,
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
@@ -15,3 +18,4 @@
     "socket.io": "^4.7.5"
   }
 }
+
