@@ -1,0 +1,21 @@
+{
+  "bread": {
+    "baguette": 0,
+    "piedemonte": 0,
+    "integral": 0
+  },
+  "protein": {
+    "mila-carne": 0,
+    "mila-pollo": 0,
+    "sin-mila": 0
+  },
+  "topping": {
+    "lechuga": 0,
+    "tomate": 0,
+    "queso": 0,
+    "huevo": 0,
+    "jamon": 0,
+    "mayonesa": 0,
+    "mostaza": 0
+  }
+}
